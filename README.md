@@ -19,7 +19,7 @@ HTML5 · CSS3
 Clona el repositorio y abre `index.html` en el navegador.
 
 ## Captura
-![Página de inicio](captura.png)
+![Página de inicio](ies-tetuan-portada.png)
 
 ## Autor
 Carlos Alberto García Espinoza
