@@ -13,7 +13,7 @@ Sitio web de tres páginas sobre el IES Tetuán de las Victorias, realizado en e
 - Navegación común entre páginas y una hoja de estilos por sección
 
 ## Tecnologías
-HTML5 · CSS3
+HTML5 · CSS3 · Figma
 
 ## Cómo verlo
 Clona el repositorio y abre `index.html` en el navegador.
